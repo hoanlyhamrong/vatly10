@@ -1,0 +1,10 @@
+{
+  "name": "Remix Vật lí 10 - Phòng học Số Tương tác",
+  "description": "Hệ sinh thái học tập Vật lí 10 GDPT 2018 Kết nối tri thức: Mô phỏng tương tác thời gian thực, Phòng thí nghiệm ảo, Luyện tập trắc nghiệm \u0026 tự luận, Mindmap, Trợ lý AI và Dashboard Khảo thí đánh giá năng lực.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
